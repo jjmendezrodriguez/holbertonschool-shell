@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -aFl /ect /bin
+ls -aln 
