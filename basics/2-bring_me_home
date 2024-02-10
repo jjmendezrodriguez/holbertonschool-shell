@@ -1,2 +1,2 @@
 #!/bin/bash
-echo cd basics/
+echo "$cd /path/to/basics/"
