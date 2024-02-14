@@ -1,2 +1,2 @@
 #!/bin/bash
-chown hello olleh
+sudo chmod 644 hello
