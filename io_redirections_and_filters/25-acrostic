@@ -1,2 +1,2 @@
 #!/bin/bash
-cat acrostic_1 acrostic_3 | cut -c1,\3 | tr -d '\n' | cut -f1,\3
+cat acrostic_1 acrostic_3 | cut -c3 | tr -d '\n' | cut -f3
