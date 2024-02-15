@@ -1,1 +1,2 @@
 #!/bin/bash
+find . .git -not -type d | rev | cut -d/ -f1 | rev
