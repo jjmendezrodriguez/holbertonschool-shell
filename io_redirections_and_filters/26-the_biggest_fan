@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(cut -f1 file1.tsv | tail -n +2 | sort -f | uniq -c | sort -nr | head -11 | awk '{print $1}')
+echo $(cut -f1 file1.tsv | tail -n +2 | sort -f | uniq -c | sort -nr | head -11 | rev | cut -d' ' -f1 | rev)
