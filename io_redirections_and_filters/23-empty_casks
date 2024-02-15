@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -laR | find -empty -type d | wc -t |  
+find . -empty -printf '%P\n'
