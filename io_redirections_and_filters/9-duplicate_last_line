@@ -1,2 +1,2 @@
 #!/bin/bash
-cp | tail -c* iacta  
+tail -n 1 iacta | echo "$(tail -n 1)" > iacta
