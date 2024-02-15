@@ -1,5 +1,5 @@
 total 104
-drwxr-xr-x 1 jm jm 712 Feb 14 20:29 .
+drwxr-xr-x 1 jm jm 712 Feb 14 20:46 .
 drwxr-xr-x 1 jm jm 114 Feb 14 13:23 ..
 -rwxr--r-- 1 jm jm  33 Feb 14 14:12 0-hello_world
 -rwxr--r-- 1 jm jm  12 Feb 14 13:29 10-no_more_js
@@ -23,9 +23,9 @@ drwxr-xr-x 1 jm jm 114 Feb 14 13:23 ..
 -rwxr--r-- 1 jm jm  40 Feb 14 19:52 6-third_line
 -rwxr--r-- 1 jm jm  99 Feb 14 14:42 7-file
 -rwxr--r-- 1 jm jm  36 Feb 14 20:29 8-cwd_state
--rwxr--r-- 1 jm jm  12 Feb 14 13:29 9-duplicate_last_line
+-rwxr--r-- 1 jm jm  34 Feb 14 20:46 9-duplicate_last_line
 -rw-r--r-- 1 jm jm  12 Feb 14 14:40 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 -rwxr--r-- 1 jm jm  51 Feb 14 14:01 git
 -rw-r--r-- 1 jm jm   0 Feb 14 19:12 iacta
--rw-r--r-- 1 jm jm   0 Feb 14 20:29 ls_cwd_content
+-rw-r--r-- 1 jm jm   0 Feb 14 20:46 ls_cwd_content
 -rw-r--r-- 1 jm jm  37 Feb 14 13:54 README.md
