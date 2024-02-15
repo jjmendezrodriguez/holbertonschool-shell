@@ -1,2 +1,2 @@
 #!/bin/bash
-find . | head -n 10
+find . -type f | head -n 10
